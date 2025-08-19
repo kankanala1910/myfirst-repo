@@ -1,5 +1,8 @@
 This is a devops tool
 used to deploy applications
-
 It supports containerisation 
 it easy to understand
+
+What is a Docker data file?
+Data Volumes are essentially directories or files in the Docker Host filesystem that can be mounted directly into the container's filesystem. 
+Data Volumes have the following characteristics: Data Volumes are directories or files, not unformatted disks (block devices).
